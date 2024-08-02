@@ -44,7 +44,11 @@ public class Student {
 
     }
 
+<<<<<<< HEAD
     void myTest3()
+=======
+    void myTest2()
+>>>>>>> B1
     {
 
     }
