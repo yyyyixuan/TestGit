@@ -50,6 +50,7 @@ public class Student {
     }
 
     void myTest3()
+    void myTest4()
     {
 
     }
